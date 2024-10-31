@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&pause=1000&color=3FFF5A&background=191D0841&width=535&lines=Hello+earthlings+my+name+is+Douglas+Israel;my+skills+are+python%2C+nodejs%2C+react%2C+vue%2C+django...;Always+studying+new+skills+and+improving+tha'ts;Feel+free+to+check+my+repositories)](https://git.io/typing-svg)
