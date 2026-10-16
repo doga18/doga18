@@ -7,7 +7,7 @@ Desenvolvedor com 4+ anos de experiência combinando infraestrutura Linux críti
 🔭 Desenvolvendo: **ReparaDone** — ERP para assistências técnicas ([reparadone.com](https://reparadone.com))
 🌱 Aprendendo: Agentes Autônomos, RAG avançado, MCP, orquestração multi-agente
 💼 Atualmente: Analista de Implantação na Code7/Ligo (4+ anos, Linux + Asterisk + Dev)
-🌐 Portfólio: [profileowner.reparadone.com](https://profileowner.reparadone.com)
+🌐 Portfólio: [dips.reparadone.com](https://dips.reparadone.com)
 📫 Contato: douglas17_serafim@hotmail.com
 
 ---
@@ -24,12 +24,13 @@ Desenvolvedor com 4+ anos de experiência combinando infraestrutura Linux críti
 
 ### 🚀 Projetos em desenvolvimento
 
+- **FlowDelivery** — Plataforma multi-tenant white-label de gestão de entregas: API REST + dashboard web + app mobile. PostgreSQL + **PostGIS**, Socket.IO em tempo real, **RBAC com overrides**, **WhatsApp por tenant (Baileys)** e motor de atribuição de entregadores. Desenvolvido com **orquestração multi-agente** (OpenCode/MCP). *(pré-produção)*
 - [**ReparaDone**](https://reparadone.com) — ERP para assistência técnica com integração de 5 gateways de pagamento (MercadoPago, PagSeguro, Stripe, Asaas, cripto), 2FA, multi-tenant e módulo ECU. 73 suites / 717 testes verdes. *(protótipo em desenvolvimento)*
 - [**Lua Prospect**](https://lua-prospect-nu.vercel.app/) — Plataforma B2B de prospecção com WhatsApp via QR Code (Baileys) e integração Google Calendar. Worker local, RBAC multi-tenant, templates com IA. *(protótipo em desenvolvimento)*
 
 ### 📦 Outros repositórios públicos
 
-- [**dev-profile**](https://github.com/doga18/dev-profile) — Landing page pessoal ([profileowner.reparadone.com](https://profileowner.reparadone.com)) em Vue 3 + Tailwind v4 + Vite
+- [**dev-profile**](https://github.com/doga18/dev-profile) — Landing page pessoal ([dips.reparadone.com](https://dips.reparadone.com)) em Vue 3 + Tailwind v4 + Vite
 
 ---
 
@@ -37,7 +38,7 @@ Desenvolvedor com 4+ anos de experiência combinando infraestrutura Linux críti
 
 - 💼 [LinkedIn](https://linkedin.com/in/douglas-pfeiffer)
 - 📧 [douglas17_serafim@hotmail.com](mailto:douglas17_serafim@hotmail.com)
-- 🌐 [profileowner.reparadone.com](https://profileowner.reparadone.com) · [reparadone.com](https://reparadone.com) · [lua-prospect-nu.vercel.app](https://lua-prospect-nu.vercel.app/)
+- 🌐 [dips.reparadone.com](https://dips.reparadone.com) · [reparadone.com](https://reparadone.com) · [lua-prospect-nu.vercel.app](https://lua-prospect-nu.vercel.app/)
 
 <p align="left">
   <i>"Construindo sistemas que resolvem problemas reais — um commit de cada vez."</i>
