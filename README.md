@@ -24,7 +24,7 @@ Desenvolvedor com 4+ anos de experiência combinando infraestrutura Linux críti
 
 ### 🚀 Projetos em desenvolvimento
 
-- **FlowDelivery** — Plataforma multi-tenant white-label de gestão de entregas: API REST + dashboard web + app mobile. PostgreSQL + **PostGIS**, Socket.IO em tempo real, **RBAC com overrides**, **WhatsApp por tenant (Baileys)** e motor de atribuição de entregadores. Desenvolvido com **orquestração multi-agente** (OpenCode/MCP). *(pré-produção)*
+- [**FlowDelivery**](https://flowdelivery.reparadone.com) — Plataforma multi-tenant white-label de gestão de entregas: API REST + dashboard web + app mobile. PostgreSQL + **PostGIS**, Socket.IO em tempo real, **RBAC com overrides**, **WhatsApp por tenant (Baileys)** e motor de atribuição de entregadores. Desenvolvido com **orquestração multi-agente** (OpenCode/MCP). *(pré-produção)*
 - [**ReparaDone**](https://reparadone.com) — ERP para assistência técnica com integração de 5 gateways de pagamento (MercadoPago, PagSeguro, Stripe, Asaas, cripto), 2FA, multi-tenant e módulo ECU. 73 suites / 717 testes verdes. *(protótipo em desenvolvimento)*
 - [**Lua Prospect**](https://lua-prospect-nu.vercel.app/) — Plataforma B2B de prospecção com WhatsApp via QR Code (Baileys) e integração Google Calendar. Worker local, RBAC multi-tenant, templates com IA. *(protótipo em desenvolvimento)*
 
