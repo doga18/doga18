@@ -2,7 +2,7 @@
 
 **Engenheiro Full-Stack & Especialista em Agentes de LLM**
 
-Desenvolvedor com 4+ anos de experiência combinando infraestrutura Linux crítica e desenvolvimento de software. Atualmente focado em **Engenharia de Agentes de LLM** e sistemas multi-tenant.
+Desenvolvedor com 6+ anos de experiência combinando infraestrutura Linux crítica e desenvolvimento de software. Atualmente focado em **Engenharia de Agentes de LLM** e sistemas multi-tenant.
 
 🔭 Desenvolvendo: **ReparaDone** — ERP para assistências técnicas ([reparadone.com](https://reparadone.com))
 🌱 Aprendendo: Agentes Autônomos, RAG avançado, MCP, orquestração multi-agente
